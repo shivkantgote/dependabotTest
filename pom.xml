@@ -1698,12 +1698,6 @@
       <artifactId>xmlbeans</artifactId>
       <version>2.6.0</version>
       <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>com.mycompany.myproject.prase</groupId>
-      <artifactId>lrtbundle</artifactId>
-      <version>2.7</version>
-      <optional>true</optional>
-    </dependency>
+     </dependency>
   </dependencies>
 </project>
