@@ -1528,7 +1528,7 @@
     <dependency>
       <groupId>org.opensaml</groupId>
       <artifactId>xmltooling</artifactId>
-      <version>1.4.1</version>
+      <version>1.4.4</version>
       <optional>true</optional>
     </dependency>
     <dependency>
