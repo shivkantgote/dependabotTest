@@ -8,8 +8,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.mastek.elixir.na.pas</groupId>
-  <artifactId>EDITSolutions</artifactId>
+  <groupId>com.mycompany.myproject</groupId>
+  <artifactId>Solutions</artifactId>
   <packaging>jar</packaging>
   <version>10.3.0.latest</version>
   <dependencies>
@@ -1292,79 +1292,79 @@
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-aspects</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-casemanagement</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-casemgmt-common</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-common</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-core</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-events</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-instruction-processor</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-resource</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-rules</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-transactioninvoker</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-validator</artifactId>
       <version>+</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.majescomastek</groupId>
+      <groupId>com.mycompany</groupId>
       <artifactId>EntityInterfaceClient</artifactId>
       <version>1.32</version>
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.framework</groupId>
+      <groupId>com.mycompany.myproject.framework</groupId>
       <artifactId>framework-services</artifactId>
       <version>+</version>
       <optional>true</optional>
@@ -1376,7 +1376,7 @@
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.mastek.elixir.na.pas</groupId>
+      <groupId>com.mycompany.myproject.pas</groupId>
       <artifactId>acord-xsd-generated</artifactId>
       <version>143.0</version>
       <optional>true</optional>
@@ -1700,7 +1700,7 @@
       <optional>true</optional>
     </dependency>
     <dependency>
-      <groupId>com.majesco.na.pas.prase</groupId>
+      <groupId>com.mycompany.myproject.prase</groupId>
       <artifactId>lrtbundle</artifactId>
       <version>2.7</version>
       <optional>true</optional>
